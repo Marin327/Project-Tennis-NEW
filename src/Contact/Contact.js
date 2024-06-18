@@ -8,7 +8,7 @@ const Contact = () => {
       <h2>Contact Us:</h2>
       <h3>For all inquiries, suggestions, or need for assistance.</h3>
       <p>
-        Email: <a href="mailto:info@fitnesdeluxe&spa.com">info@fitnesdeluxe&spa.com</a><br />
+        Email: <a href="mailto:info@marin_93@abv.bg">info@marin_93@abv.bg</a><br />
         Phone: +359 89 708 2919<br />
         Address: 123 Main Street, Sofia, Bulgaria
       </p>
