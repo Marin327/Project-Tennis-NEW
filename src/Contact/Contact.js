@@ -9,7 +9,7 @@ const Contact = () => {
       <h3>For all inquiries, suggestions, or need for assistance.</h3>
       <p>
         Email: <a href="mailto:info@marin_93@abv.bg">info@marin_93@abv.bg</a><br />
-        Phone: 008 888 333 333<br />
+        Phone: 888888888<br />
         Address: 123 Main Street, Sofia, Bulgaria
       </p>
       <div className="social-links">
